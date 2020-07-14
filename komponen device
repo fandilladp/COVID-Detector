@@ -1,0 +1,5 @@
+- arduino nano 
+- module HC_05
+- module ISD 1820
+- sensor yang seharusnya digunakan mlx90614 tetapi saya melakukan perubahan karna ini hanya percobaan untuk menghemat biaya saya menggunakan sensor dht 11,
+  kalian hayan tinggal merubah codingan di bagian inputan dan outputan sensor jika ingin merubahnya menjadi mlx90614.
